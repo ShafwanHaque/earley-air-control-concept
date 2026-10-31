@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 128" role="img" aria-labelledby="title">
+  <title id="title">EAC Earley Air Control Inc.</title>
+  <ellipse cx="160" cy="64" rx="152" ry="56" fill="#fffdf9" stroke="#8f9d8f" stroke-width="2"/>
+  <ellipse cx="160" cy="64" rx="147" ry="51" fill="none" stroke="#b1b7a9" stroke-width="1"/>
+  <text x="160" y="60" text-anchor="middle" fill="#96363b" font-family="Georgia, 'Times New Roman', serif" font-size="45" font-style="italic" font-weight="700" letter-spacing="-1.5">EAC</text>
+  <path d="M83 68c39 9 115 9 154 0" fill="none" stroke="#96363b" stroke-linecap="round" stroke-width="1.5"/>
+  <text x="160" y="94" text-anchor="middle" fill="#68766b" font-family="Georgia, 'Times New Roman', serif" font-size="17" font-style="italic" letter-spacing=".2">Earley Air Control Inc.</text>
+</svg>
